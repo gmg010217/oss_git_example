@@ -23,7 +23,7 @@
 * _add_
 * _commit_
 
-![Image] (https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
 -------------
 ### Week2-3 Github, fork, pull request
