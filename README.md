@@ -20,8 +20,8 @@
 
 -------------
 ### Week2-2 Git
-* _add_
-* _commit_
+* _add_  
+_commit_
 
 ![Image](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
