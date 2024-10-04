@@ -23,18 +23,18 @@
 * _add_
 * _commit_
 
-![Image] (https://www.google.co.kr/imgres?q=사과&imgurl=https%3A%2F%2Fimg.hankyung.com%2Fphoto%2F202403%2FAA.36104679.1.jpg&imgrefurl=https%3A%2F%2Fwww.hankyung.com%2Farticle%2F2024031383791&docid=8EFauXvmiERYWM&tbnid=pC6J61_Cvl3NWM&vet=12ahUKEwjOxv220fSIAxU15DQHHePoHa8QM3oECGkQAA..i&w=1151&h=1196&hcb=2&ved=2ahUKEwjOxv220fSIAxU15DQHHePoHa8QM3oECGkQAA)
+![Image] (https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
 -------------
 ### Week2-3 Github, fork, pull request
-* 이런내용
-  > 그런데 이런거
-* 저런내용
-  > 그런데 저런거
+* 깃허브에서 제공
+  > 깃허브에서 인용하였습니다
+* 상대방의 원격 저장소로 전달
+  > 하였습니다
 
 [My Github Blog](https://github.com/gmg010217)
 
 -------------
 ### Week3     Markdown
-* 이런내용
-* 저런내용
+* 참 쉽고
+* 빠르게 배울 수 있습니다
